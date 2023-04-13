@@ -145,6 +145,13 @@ Additional guidelines for *7 key Normal* difficulties:
 - **Bracket patterns should be used sparingly.**
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
+Additional guidelines for *10 key Normal* difficulties:
+
+- **Avoid chords with more than 4 notes.** If the mapper wishes to utilize such chords, they are encouraged to relax the surrounding patterns.		
+- **1/2 Bracket patterns should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles. (Link this to a set of images with examples)		
+- **Avoid staggering the releases for long notes held simultaneously on the same hand.** If the mapper wishes to utilize such patterns, they are encouraged to relax the surrounding patterns.
+- **The mapper is encouraged to relax rice patterns played on a hand that is actively holding a long note.**
+
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### Guidelines
@@ -172,6 +179,11 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
+Additioanal guidelines for *10 key Hard* difficulties:
+
+- **Avoid chords with more than 6 notes.** If the mapper wishes to utilize such chords, they are encouraged to relax the surrounding patterns.		
+- **Occasional quads can be used in streams, so long as they are separated by at least one measure (4 beats).**
+
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### Guidelines
@@ -196,6 +208,12 @@ Additional guidelines for *7 key Insane* difficulties:
   - ...1/2, there should not be more than 2 notes.
   - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
 - **Bracket streams should be used sparingly.**
+
+Additional guidelines for *10 key Insane* difficulties:
+
+- **1-handed bracket streams should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles. (Link this to a set of images with examples)		
+- **If the mapper wishes to incorporate 1/4 jacks into a chordstream, they are encouraged to shift note density away from the hand playing said jacks.**
+- **In the middle of a long chordstream, appropriate sizes and intervals for chords should be informed by the finger dexterity demanded by the chordstream.** A chordstream that demands lots of back-and-forth knuckle movement (e.g. brackets) is significantly more difficult than a chordstream consisting mainly of roll-like patterns, and cannot accomodate larger chords as comfortably.		
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
