@@ -222,6 +222,6 @@ Additional guidelines for *10 key Insane* difficulties:
 - **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
 - **Long-term slider velocity changes should be between 0.60x and 1.10x.**
 
-Additional guidelines for *10 key Insane* difficulties:
+Additional guidelines for *10 key Expert* difficulties:
 
 - **Reasonable playability of harder patterns should be confirmed through playtesting.** There aren't strong precedents for all types of patterns at a higher level.
