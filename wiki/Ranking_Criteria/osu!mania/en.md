@@ -224,4 +224,4 @@ Additional guidelines for *10 key Insane* difficulties:
 
 Additional guidelines for *10 key Expert* difficulties:
 
-- **Reasonable playability of harder patterns should be confirmed through playtesting.** There aren't strong precedents for all types of patterns at a higher level.
+- **Reasonable playability should be confirmed through playtesting.** Not all patterns have strong precedents at a higher level.
