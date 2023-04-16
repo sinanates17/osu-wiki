@@ -149,8 +149,7 @@ Additional guidelines for *10 key Normal* difficulties:
 
 - **Avoid chords with more than 4 notes.** When such chords are used, it is encouraged to relax the density of surrounding patterns.		
 - **1-handed 1/2 bracket patterns should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles. 			
-- **Avoid staggering the releases for long notes held simultaneously on the same hand.** If the mapper wishes to utilize such patterns, they are encouraged to relax the surrounding patterns.
-- A**void staggering the releases for long notes held simultaneously on the same hand.** When such patterns are used, it is encouraged to relax the density of surrounding patterns.		
+- **Avoid staggering the releases for long notes held simultaneously on the same hand.** If the mapper wishes to utilize such patterns, they are encouraged to relax the surrounding patterns.	
 
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
