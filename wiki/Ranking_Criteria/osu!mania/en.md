@@ -186,9 +186,7 @@ Additional guidelines for *7 key Hard* difficulties:
 Additioanal guidelines for *10 key Hard* difficulties:
 
 - **It is encouraged to give the hand playing 3 or more notes in a chord a 1/2 break before or after said chord.**
-
 - **Either hand should have frequent 1/2 breaks in the middle of a long stream.** This guideline may be relaxed depending on the relative difficulty of the streams being used. Streams with lots of rolling motions are typically simpler to hit than streams demanding back-and-forth knuckle movement.
-
 - **Occasional quads can be used in streams, so long as they are separated by at least one measure (4 beats).** This guideline may be relaxed depending on the relative difficulty of the quads being used.
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
@@ -219,9 +217,7 @@ Additional guidelines for *7 key Insane* difficulties:
 Additional guidelines for *10 key Insane* difficulties:
 
 - **1-handed bracket streams should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles.
-
 - **1/4 jacks should be used in chordstreams sparingly.** When used, it is encouraged to shift note density away from the hand playing said jacks.
-
 - **In the middle of a long chordstream, appropriate sizes and intervals for chords should be informed by the finger dexterity demanded by the chordstream.** A chordstream that demands lots of back-and-forth knuckle movement (e.g. brackets) is significantly more difficult than a chordstream consisting mainly of roll-like patterns, and cannot accomodate larger chords as comfortably.
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
