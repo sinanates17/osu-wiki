@@ -95,6 +95,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
+- **For >10 keymodes that follow an n+2 special style:**
+  - Special and normal notes played by the same hand cannot be placed at the same timestamp.
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
 
 #### Guidelines
 
@@ -121,6 +124,9 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
+- **For >10 keymodes that follow an n+2 special style:**
+  - Special and normal notes played by the same hand cannot be placed at the same timestamp.
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
 
 #### Guidelines
 
@@ -172,6 +178,9 @@ Additional guidelines for *10 key Normal* difficulties:
 - **Objects directly after short-term slider velocity changes should appear at the beatmap's normal scroll speed.** To do this, short-term slider velocity changes should only be used in empty spaces between notes and should equalise to a distance of 1.0x.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
+- **For >10 keymodes that follow an n+2 special style:**
+  - Special and normal notes played by the same hand should be used very sparingly, and in areas of lower note density.
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
 
 Additional guidelines for *4 key Hard* difficulties:
 
@@ -198,6 +207,9 @@ Additioanal guidelines for *10 key Hard* difficulties:
 - **Avoid using 1/6 or higher snap long note streams.** These are very hard to hit and release because of their very short length. Use regular notes in place of streams instead.
 - **Long-term slider velocity changes should be between 0.70x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalised and 1/2 of a beat or more when normalised.**
+- **For >10 keymodes that follow an n+2 special style:**
+  - Special and normal notes played by the same hand should be used sparingly, and in areas of lower note density.
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
 
 Additional guidelines for *4 key Insane* difficulties:
 
@@ -226,6 +238,7 @@ Additional guidelines for *10 key Insane* difficulties:
 
 - **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
 - **Long-term slider velocity changes should be between 0.60x and 1.10x.**
+- **For >10 keymodes that follow an n+2 special style,** special and normal notes played by the same hand should not be overused.
 
 Additional guidelines for *10 key Expert* difficulties:
 
