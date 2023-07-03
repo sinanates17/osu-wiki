@@ -95,9 +95,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For >10 keymodes that follow an n+2 special style:**
-  - Special and normal notes played by the same hand cannot be placed at the same timestamp.
-  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
+- **For >10 keymodes that follow an n+2 special style:** `+`
+  - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
 #### Guidelines
 
@@ -111,10 +111,10 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to begin or to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
-Additional guidelines for *10 key Easy* difficulties:
+Additional guidelines for *10 key Easy* difficulties:`+`
 
-- **It is encouraged to balance consecutive 1/2 patterns across both hands.** This guideline may be relaxed depending on the relative difficulty of the patterns being used. For example, rolling motions are typically simpler to hit than patterns demanding back-and-forth knuckle movement.
-- **Patterns involving hitobjects placed during the duration of a long note held by the same hand should be used sparingly.** Such patterns may be difficult for beginners.
+- **It is encouraged to balance consecutive 1/2 patterns across both hands.** This guideline may be relaxed depending on the relative difficulty of the patterns being used. For example, rolling motions are typically simpler to hit than patterns demanding back-and-forth knuckle movement.`+`
+- **Patterns involving hitobjects placed during the duration of a long note held by the same hand should be used sparingly.** Such patterns may be difficult for beginners.`+`
 
 ### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
@@ -124,9 +124,9 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For >10 keymodes that follow an n+2 special style:**
-  - Special and normal notes played by the same hand cannot be placed at the same timestamp.
-  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
+- **For >10 keymodes that follow an n+2 special style:** `+`
+  - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
 #### Guidelines
 
@@ -158,9 +158,9 @@ Additional guidelines for *7 key Normal* difficulties:
 
 Additional guidelines for *10 key Normal* difficulties:
 
-- **Avoid chords with more than 4 notes.** When such chords are used, it is encouraged to relax the density of surrounding patterns.		
-- **1-handed 1/2 bracket patterns should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles. 			
-- **Avoid staggering the releases for long notes held simultaneously by the same hand.** When such patterns are used, it is encouraged to relax the density of surrounding patterns.	
+- **Avoid chords with more than 4 notes.** When such chords are used, it is encouraged to relax the density of surrounding patterns.`+`
+- **1-handed 1/2 bracket patterns should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles.`+`
+- **Avoid staggering the releases for long notes held simultaneously by the same hand.** When such patterns are used, it is encouraged to relax the density of surrounding patterns.`+`
 
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
@@ -178,9 +178,9 @@ Additional guidelines for *10 key Normal* difficulties:
 - **Objects directly after short-term slider velocity changes should appear at the beatmap's normal scroll speed.** To do this, short-term slider velocity changes should only be used in empty spaces between notes and should equalise to a distance of 1.0x.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
-- **For >10 keymodes that follow an n+2 special style:**
-  - Special and normal notes played by the same hand should be used very sparingly, and in areas of lower note density.
-  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
+- **For >10 keymodes that follow an n+2 special style:** `+`
+  - Special and normal notes played by the same hand should be used very sparingly, and in areas of lower note density.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
 Additional guidelines for *4 key Hard* difficulties:
 
@@ -192,11 +192,11 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
-Additioanal guidelines for *10 key Hard* difficulties:
+Additioanal guidelines for *10 key Hard* difficulties:`+`
 
-- **It is encouraged to give the hand playing 3 or more notes in a chord a 1/2 break before or after said chord.**
-- **Either hand should have frequent 1/2 breaks in the middle of a long stream.** This guideline may be relaxed depending on the relative difficulty of the streams being used. Streams with lots of rolling motions are typically simpler to hit than streams demanding back-and-forth knuckle movement.
-- **Occasional quads can be used in streams, so long as they are separated by at least one measure (4 beats).** This guideline may be relaxed depending on the relative difficulty of the quads being used.
+- **It is encouraged to give the hand playing 3 or more notes in a chord a 1/2 break before or after said chord.** `+`
+- **Either hand should have frequent 1/2 breaks in the middle of a long stream.** This guideline may be relaxed depending on the relative difficulty of the streams being used. Streams with lots of rolling motions are typically simpler to hit than streams demanding back-and-forth knuckle movement.`+`
+- **Occasional quads can be used in streams, so long as they are separated by at least one measure (4 beats).** This guideline may be relaxed depending on the relative difficulty of the quads being used.`+`
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
@@ -207,9 +207,9 @@ Additioanal guidelines for *10 key Hard* difficulties:
 - **Avoid using 1/6 or higher snap long note streams.** These are very hard to hit and release because of their very short length. Use regular notes in place of streams instead.
 - **Long-term slider velocity changes should be between 0.70x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalised and 1/2 of a beat or more when normalised.**
-- **For >10 keymodes that follow an n+2 special style:**
-  - Special and normal notes played by the same hand should be used sparingly, and in areas of lower note density.
-  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.
+- **For >10 keymodes that follow an n+2 special style:** `+`
+  - Special and normal notes played by the same hand should be used sparingly, and in areas of lower note density.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
 Additional guidelines for *4 key Insane* difficulties:
 
@@ -226,11 +226,11 @@ Additional guidelines for *7 key Insane* difficulties:
   - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
 - **Bracket streams should be used sparingly.**
 
-Additional guidelines for *10 key Insane* difficulties:
+Additional guidelines for *10 key Insane* difficulties:`+`
 
-- **1-handed bracket streams should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles.
-- **1/4 jacks should be used in chordstreams sparingly.** When used, it is encouraged to shift note density away from the hand playing said jacks.
-- **In the middle of a long chordstream, appropriate sizes and intervals for chords should be informed by the finger dexterity demanded by the chordstream.** A chordstream that demands lots of back-and-forth knuckle movement (e.g. brackets) is significantly more difficult than a chordstream consisting mainly of roll-like patterns, and cannot accomodate larger chords as comfortably.
+- **1-handed bracket streams should be used sparingly.** This extends to other 1-handed patterns requiring the independent movement of 3 or 4 knuckles.`+`
+- **1/4 jacks should be used in chordstreams sparingly.** When used, it is encouraged to shift note density away from the hand playing said jacks.`+`
+- **In the middle of a long chordstream, appropriate sizes and intervals for chords should be informed by the finger dexterity demanded by the chordstream.** A chordstream that demands lots of back-and-forth knuckle movement (e.g. brackets) is significantly more difficult than a chordstream consisting mainly of roll-like patterns, and cannot accomodate larger chords as comfortably.`+`
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
@@ -238,8 +238,8 @@ Additional guidelines for *10 key Insane* difficulties:
 
 - **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
 - **Long-term slider velocity changes should be between 0.60x and 1.10x.**
-- **For >10 keymodes that follow an n+2 special style,** patterns involving special and normal notes played by the same hand should not be overused.
+- **For >10 keymodes that follow an n+2 special style,** patterns involving special and normal notes played by the same hand should not be overused. `+`
 
-Additional guidelines for *10 key Expert* difficulties:
+Additional guidelines for *10 key Expert* difficulties:`+`
 
-- **Reasonable playability should be confirmed through playtesting.** Not all patterns have strong precedents at a higher level.
+- **Reasonable playability should be confirmed through playtesting.** Not all patterns have strong precedents at a higher level.`+`
