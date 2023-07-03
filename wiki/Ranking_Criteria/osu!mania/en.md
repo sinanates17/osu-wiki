@@ -87,7 +87,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-*Key mode-specific guidelines are constructed based on 4 key, 7 key, and 10 key. Any other key modes should apply these guidelines when applicable.*
+*Key mode-specific guidelines are constructed based on 4 key, 7 key, and 10 key. Any other key modes should apply these guidelines when applicable.* `+`
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
