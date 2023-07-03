@@ -179,7 +179,7 @@ Additional guidelines for *10 key Normal* difficulties:`+`
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
 - **For >10 keymodes that follow an n+2 special style,** special notes should be treated similarly to being in the same lane as normal notes on the same hand, which means: `+`
-  - Special and normal notes played simultaneously by the same hand should be used only where very clear musical justification is present.`+`
+  - Special and normal notes played simultaneously by the same hand should be used only where very strong musical justification is present.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
 Additional guidelines for *4 key Hard* difficulties:
@@ -208,7 +208,7 @@ Additional guidelines for *10 key Hard* difficulties:`+`
 - **Long-term slider velocity changes should be between 0.70x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalised and 1/2 of a beat or more when normalised.**
 - **For >10 keymodes that follow an n+2 special style,** special notes should be treated similarly to being in the same lane as normal notes on the same hand, which means: `+`
-  - Special and normal notes played simultaneously by the same hand should be used sparingly, and in areas of lower note density.`+`
+  - Special and normal notes played simultaneously by the same hand should be used only where very strong musical justification is present.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
 Additional guidelines for *4 key Insane* difficulties:
