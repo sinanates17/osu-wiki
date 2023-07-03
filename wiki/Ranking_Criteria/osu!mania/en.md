@@ -192,7 +192,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
-Additioanal guidelines for *10 key Hard* difficulties:`+`
+Additional guidelines for *10 key Hard* difficulties:`+`
 
 - **It is encouraged to give the hand playing 3 or more notes in a chord a 1/2 break before or after said chord.** `+`
 - **Either hand should have frequent 1/2 breaks in the middle of a long stream.** This guideline may be relaxed depending on the relative difficulty of the streams being used. Streams with lots of rolling motions are typically simpler to hit than streams demanding back-and-forth knuckle movement.`+`
