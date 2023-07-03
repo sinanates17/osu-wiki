@@ -95,7 +95,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For >10 keymodes that follow an n+2 special style:** `+`
+- **For >10 keymodes that follow an n+2 special style,** special notes should be treated as being in the same lane as normal notes on the same hand, which means:`+`
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
@@ -124,7 +124,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For >10 keymodes that follow an n+2 special style:** `+`
+- **For >10 keymodes that follow an n+2 special style,** special notes should be treated as being in the same lane as normal notes on the same hand, which means: `+`
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
