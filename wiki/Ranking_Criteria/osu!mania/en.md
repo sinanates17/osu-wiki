@@ -238,7 +238,7 @@ Additional guidelines for *10 key Insane* difficulties:
 
 - **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
 - **Long-term slider velocity changes should be between 0.60x and 1.10x.**
-- **For >10 keymodes that follow an n+2 special style,** special and normal notes played by the same hand should not be overused.
+- **For >10 keymodes that follow an n+2 special style,** patterns involving special and normal notes played by the same hand should not be overused.
 
 Additional guidelines for *10 key Expert* difficulties:
 
