@@ -19,7 +19,7 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 ### Common terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
-- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels.
+- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17` for timestamp labels.`+`
 - **Key mode**: The number of columns present in a difficulty.
 - **Island**: A group of columns that are meant to be played by a set of keybinds that are physically separated on the keyboard from other keybinds. `+`
 - **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
@@ -62,7 +62,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Beatmaps can only use 4 to 10, 12, 14, 16, or 18 keys.** Anything else is not supported for the Ranked section.`+`
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 - **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
-- **Beatmaps using the special N+2 style of mapping must include "N+2" in the tags** `+`
+- **Beatmaps using the special N+2 style of mapping must include "N+2" in the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+2 notation (e.g. using 10K+2 instead of 12K on difficulty names).** `+`
 - **For maps using an island playstyle** (such as EZ2AC 14K), notes placed on one island should be treated as occupying all other lanes played by the same hand on other islands, which means: `+`
   - Notes played by the same hand on different islands cannot be placed on the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of notes played by the same hand on different islands.`+`
