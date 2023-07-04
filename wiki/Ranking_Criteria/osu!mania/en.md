@@ -107,7 +107,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 - **For difficulties using dynamic playstyles,** notes that are placed in one column should be treated as occupying other columns that are typically hit by the same finger, as dictated by the specific playstyle. This means:`+`
-  - Notes placed in columns that are typically played by the same finger cannot be placed on the same timestamp. Such chords require irregular finger movement not suitable for a beginner.`+`
+  - Notes placed in different columns that are typically played by the same finger cannot be placed on the same timestamp. Such chords require irregular finger movement not suitable for a beginner.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
   - This rule may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
 
