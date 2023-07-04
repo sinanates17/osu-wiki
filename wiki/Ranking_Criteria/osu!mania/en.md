@@ -124,6 +124,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid using more than 5 consecutive 1/2 notes.**
 - **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to begin or to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
+- **For difficulties using island playstyles**, either hand should receive a 2-beat pause before switching islands. Faster hand movement is not suitable for players of this difficulty. `+`
 
 Additional guidelines for *10 key Easy* difficulties:`+`
 
@@ -163,6 +164,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
   - chords involving notes placed in different columns that are typically played by the same finger on the same timestamp should be used very sparingly. Such chords require irregular finger movement to hit, and should only be lightly introduced to players at this level.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
   - This guideline may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
+- **For difficulties using island playstyles**, either hand should receive a 1/1 pause before switching islands. Faster hand movement is not suitable for players of this difficulty. `+`
 
 Additional guidelines for *4 key Normal* difficulties:
 
@@ -203,6 +205,7 @@ Additional guidelines for *10 key Normal* difficulties:`+`
   - chords involving notes placed in different columns that are typically played by the same finger on the same timestamp should be used sparingly. Such chords require irregular finger movement to hit.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
   - This guideline may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
+- **For difficulties using island playstyles**, either hand should receive a 1/2 pause before switching islands. Faster hand movement is not suitable for players of this difficulty. `+`
 
 Additional guidelines for *4 key Hard* difficulties:
 
