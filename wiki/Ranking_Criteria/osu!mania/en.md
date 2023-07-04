@@ -23,7 +23,8 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 - **Key mode**: The number of columns present in a difficulty.
 - **Playstyle**: The particular layout and mapping style used within a key mode. `+`
 - **Dynamic playstyle**: A playstyle where the columns don't map 1:1 with the fingers that typically play them. (Subject to change)
-- **Island**: A group of columns that require physical repositioning of an entire hand to hit effectively, as dictated by the playstyle (e.g. [EZ2AC 14K](https://i.ppy.sh/43e55c5dc6f7be4d08e25697491a9a8c26217a84/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3831383639383833333536323832383832332f313131393738353532303133393038383038362f455a3241435f31344b5f4578616d706c655f4b657962696e64735f76312e312e706e67)). `+`
+- **Island**: A group of columns that require physical repositioning of an entire hand to hit effectively.
+- **Island playstyle**: A dynamic playstyle where at least one hand is expected to switch between two or more islands. (e.g. [EZ2AC 14K](https://i.ppy.sh/43e55c5dc6f7be4d08e25697491a9a8c26217a84/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3831383639383833333536323832383832332f313131393738353532303133393038383038362f455a3241435f31344b5f4578616d706c655f4b657962696e64735f76312e312e706e67)). `+`
 - **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
