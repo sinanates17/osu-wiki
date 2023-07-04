@@ -64,7 +64,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 - **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
 - **Beatmaps using the special N+2 style of mapping must include "N+2" in the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+2 notation (e.g. using 10K+2 instead of 12K on difficulty names).** `+`
-- **For maps using an island playstyle,** notes placed on one island should be treated as occupying all other lanes played by the same hand on other islands, which means: `+`
+- **For maps using an island playstyle,** notes placed on one island should be treated as occupying all other columns played by the same hand on other islands, which means: `+`
   - Notes played by the same hand on different islands cannot be placed on the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of notes played by the same hand on different islands.`+`
   - This rule may be ignored in cases where one island can be played by both hands, relieving the need to hit notes on different islands with the same hand.`+`
@@ -103,9 +103,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated as being in the same lane as normal notes on the same hand, which means:`+`
+- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated as being in the same column as normal notes on the same hand, which means:`+`
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
+- **For difficulties using dynamic playstyles,** notes that are placed in one column should be treated as occupying other columns that are typically hit by the same finger, as dictated by the specific playstyle. This means:`+`
+  - Notes placed in columns that are typically played by the same finger cannot be placed on the same timestamp. Such chords require irregular finger movement not suitable for a beginner.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
+  - This rule may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
 
 #### Guidelines
 
@@ -132,7 +136,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated as being in the same lane as normal notes on the same hand, which means: `+`
+- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated as being in the same column as normal notes on the same hand, which means: `+`
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
@@ -186,7 +190,7 @@ Additional guidelines for *10 key Normal* difficulties:`+`
 - **Objects directly after short-term slider velocity changes should appear at the beatmap's normal scroll speed.** To do this, short-term slider velocity changes should only be used in empty spaces between notes and should equalise to a distance of 1.0x.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
-- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated similarly to being in the same lane as normal notes on the same hand, which means: `+`
+- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated similarly to being in the same column as normal notes on the same hand, which means: `+`
   - Patterns involving special and normal notes played simultaneously by the same hand should be used only where very strong musical justification is present.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
@@ -215,7 +219,7 @@ Additional guidelines for *10 key Hard* difficulties:`+`
 - **Avoid using 1/6 or higher snap long note streams.** These are very hard to hit and release because of their very short length. Use regular notes in place of streams instead.
 - **Long-term slider velocity changes should be between 0.70x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalised and 1/2 of a beat or more when normalised.**
-- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated similarly to being in the same lane as normal notes on the same hand, which means: `+`
+- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated similarly to being in the same column as normal notes on the same hand, which means: `+`
   - Patterns involving special and normal notes played simultaneously by the same hand should be used only where very strong musical justification is present.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
