@@ -105,7 +105,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated as being in the same column as normal notes on the same hand, which means:`+`
+- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes must be treated as being in the same column as normal notes on the same hand, which means:`+`
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 - **For difficulties using dynamic playstyles,** notes that are placed in one column should be treated as occupying other columns that are typically hit by the same finger, as dictated by the specific playstyle. This means:`+`
@@ -138,7 +138,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalisation must be done in beatmaps with variable BPM.**
-- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated as being in the same column as normal notes on the same hand, which means: `+`
+- **For difficulties using more than 10 keys that also use a special N+2 style,** special notes must be treated as being in the same column as normal notes on the same hand, which means: `+`
   - Special and normal notes played by the same hand cannot be placed at the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
 
