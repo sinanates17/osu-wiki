@@ -157,6 +157,10 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Avoid using 1/4 minijacks or other jack patterns.** These patterns are too physically demanding for players at this level.
 - **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different intensities and should not be drastically variable throughout the beatmap.
 - **Long-term slider velocity changes should be between 0.90x and 1.05x.**
+- **For difficulties using dynamic playstyles,** notes that are placed in one column should be treated similarly to occupying other columns that are typically hit by the same finger, as dictated by the specific playstyle. This means:`+`
+  - chords involving notes placed in different columns that are typically played by the same finger on the same timestamp should be used very sparingly. Such chords require irregular finger movement to hit, and should only be lightly introduced to players at this level.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
+  - This guideline may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
 
 Additional guidelines for *4 key Normal* difficulties:
 
@@ -193,6 +197,10 @@ Additional guidelines for *10 key Normal* difficulties:`+`
 - **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated similarly to being in the same column as normal notes on the same hand, which means: `+`
   - Patterns involving special and normal notes played simultaneously by the same hand should be used only where very strong musical justification is present.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
+- **For difficulties using dynamic playstyles,** notes that are placed in one column should be treated similarly to occupying other columns that are typically hit by the same finger, as dictated by the specific playstyle. This means:`+`
+  - chords involving notes placed in different columns that are typically played by the same finger on the same timestamp should be used sparingly. Such chords require irregular finger movement to hit.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
+  - This guideline may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
 
 Additional guidelines for *4 key Hard* difficulties:
 
@@ -222,6 +230,10 @@ Additional guidelines for *10 key Hard* difficulties:`+`
 - **For difficulties using more than 10 keys that also use a special N+2 style,** special notes should be treated similarly to being in the same column as normal notes on the same hand, which means: `+`
   - Patterns involving special and normal notes played simultaneously by the same hand should be used only where very strong musical justification is present.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of special and normal notes.`+`
+- **For difficulties using dynamic playstyles,** notes that are placed in one column should be treated similarly to occupying other columns that are typically hit by the same finger, as dictated by the specific playstyle. This means:`+`
+  - chords involving notes placed in different columns that are typically played by the same finger on the same timestamp should not be overused. Such chords require irregular finger movement to hit.`+`
+  - Guidelines regarding anchors and jacks also apply to combinations of notes on different columns played by the same finger.`+`
+  - This guideline may be ignored in cases where one column can typically be played by multiple fingers, relieving the need for irregular finger movement to hit such chords.`+`
 
 Additional guidelines for *4 key Insane* difficulties:
 
