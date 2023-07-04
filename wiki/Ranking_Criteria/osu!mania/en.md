@@ -64,7 +64,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 - **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
 - **Beatmaps using the special N+2 style of mapping must include "N+2" in the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+2 notation (e.g. using 10K+2 instead of 12K on difficulty names).** `+`
-- **For maps using an island playstyle** (such as EZ2AC 14K), notes placed on one island should be treated as occupying all other lanes played by the same hand on other islands, which means: `+`
+- **For maps using an island playstyle,** notes placed on one island should be treated as occupying all other lanes played by the same hand on other islands, which means: `+`
   - Notes played by the same hand on different islands cannot be placed on the same timestamp.`+`
   - Guidelines regarding anchors and jacks also apply to combinations of notes played by the same hand on different islands.`+`
   - This rule may be ignored in cases where one island can be played by both hands, relieving the need to hit notes on different islands with the same hand.`+`
